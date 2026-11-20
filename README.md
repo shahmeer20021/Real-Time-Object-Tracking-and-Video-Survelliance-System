@@ -1,6 +1,6 @@
 ## Real Time Object Tracking and Video Surveillance System
 
-This project is my Final Year Project (FYP) for BS Artificial Intelligence at PAF-IAST. It is a real-time system that performs specific object detection, tracking, and GUI-based surveillance using YOLO.
+This project is my Final Year Project (FYP) for BS Computer Science at PAF-IAST. It is a real-time system that performs specific object detection, tracking, and GUI-based surveillance using YOLO.
 
 ## Features
 - Real-time object detection (YOLO)
